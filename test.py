@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider, Button, RadioButtons
 import time as tm
 
-TEST_TIME = 10
+TEST_TIME = 100
 DT = 0.1
 
 

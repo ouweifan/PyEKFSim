@@ -1,9 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.widgets import Slider, Button, RadioButtons
-import time as tm
 
-TEST_TIME = 10
+TEST_TIME = 100
 DT = 0.1
 
 # x_k = F*x_(k-1) + B*u
